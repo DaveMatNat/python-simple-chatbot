@@ -1,1 +1,3 @@
 # python-simple-chatbot
+
+This is an if-else-based Chatbot named **"$0mch4i"** --> digital version of Somchai (Thai name). He loves spicy foods, mangoes, drinks (especially boba tea), and 80s western rock! Side note, he can be a bit **FREAKY** if you leave him... 
