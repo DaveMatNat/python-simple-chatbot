@@ -1,10 +1,3 @@
-'''
-    Project: Simple Bot
-    Name: David Nathanson
-    Date: 09/09/2024
-    Course: CMSC 150 - Section 1
-    Program Description: This is an if-else-based Chatbot named "$0mch4i" --> digital version of Somchai (Thai name). He loves spicy foods, mangoes, drinks (especially boba tea), and 80s western rock! Side note, he can be a bit FREAKY if you leave him... 
-'''
 import random
 ####### GLOBAL VARIABLES #######
 
